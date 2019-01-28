@@ -1,0 +1,26 @@
+//colors
+$orange: #e45028;
+$yellow: #f9b43b;
+$black: #2f3234;
+$red: #e35028;
+
+//normalize
+@import "../_styles/normalize.scss";
+
+// setups
+//@import "../_styles/mixins.scss";
+@import "../_styles/fonts.scss";
+@import "../_styles/layout.scss";
+
+
+// blocks
+@import "../blocks/hero.scss";
+@import "../blocks/header.scss";
+@import "../blocks/title.scss";
+@import "../blocks/best.scss";
+//@import "../blocks/reviews.scss";
+//@import "../blocks/team.scss";
+
+
+//common
+@import "../blocks/btn.scss";

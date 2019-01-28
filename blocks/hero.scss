@@ -1,0 +1,25 @@
+.hero {
+    background: url(../img/bg/hero-bg.png) center center / cover no-repeat;
+}
+
+.hero__order-btn {
+    margin-left: 15px;
+}
+.hero__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: .75;
+}
+
+.hero__container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.hero__content-descr {
+    color: #fff;
+    font-size: 55px;
+    font-family: 'Lifehack-Medium';
+}

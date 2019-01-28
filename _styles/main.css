@@ -489,6 +489,13 @@ ul {
   -ms-flex-align: center;
   align-items: center; }
 
+.title {
+  font-size: 72px;
+  color: #f9b43b;
+  font-family: 'Gagalin-Regular';
+  line-height: 1.1;
+  margin-bottom: 45px; }
+
 .best {
   background: url(../img/bg/best-bg.png) center center/cover no-repeat; }
 
